@@ -1,0 +1,24 @@
+{
+    "name": "@k3-software/tramory.github.io",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "start": "parcel src/index.html -p 8080 --public-url /",
+      "build": "parcel build src/index.html"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/@k3-software/tramory.github.io.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/@k3-software/tramory.github.io/issues"
+    },
+    "homepage": "https://github.com/@k3-software/tramory.github.io#readme",
+    "devDependencies": {
+      "parcel-bundler": "^1.12.4",
+      "sass": "^1.29.0"
+    }
+  }
